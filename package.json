@@ -4,6 +4,7 @@
   "description": "Demo for Fenders Feb",
   "keywords": [],
   "main": "src/index.js",
+  "license": "MIT",
   "dependencies": {
     "react": "16.8.*",
     "react-dom": "16.8.*",
